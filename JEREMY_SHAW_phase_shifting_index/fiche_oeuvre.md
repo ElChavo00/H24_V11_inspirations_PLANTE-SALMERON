@@ -19,10 +19,7 @@ Ce que j'ai pu trouver dans cette oeuvre est que l'humains quand il arrive dans 
 
 ## Appuis visuels
 
-![exposition_projecteur_sons.jpg]
-(media/exposition_vue_1.jpg)
-![exposition_vue_2.jpg]
-![exposition_vue_3.jpg]
+![photo1](exposition_projecteur_sons.jpg) ![photo2](media/exposition_vue_1.jpg) ![photo3](exposition_vue_2.jpg) ![photo4](exposition_vue_3.jpg)
 
 ## Conclusions
 
