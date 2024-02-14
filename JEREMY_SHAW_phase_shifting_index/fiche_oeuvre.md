@@ -15,6 +15,7 @@ Jeremy Shaw, nous montre plusieurs epoque avec un style de dance peux communs. M
 
 ## Analyse
 
+Ce que j'ai pu trouver dans cette oeuvre est que l'humains quand il arrive dans un niveau d'extase collective avec la dance. Il peux traverser le mur du temp et peux rejoindre d'autre personne qu'on peux appeler en mode "Transtemporelle" 
 
 ## Appuis visuels
 
@@ -22,4 +23,7 @@ Jeremy Shaw, nous montre plusieurs epoque avec un style de dance peux communs. M
 ![exposition_vue_1.jpg]
 ![exposition_vue_2.jpg]
 ![exposition_vue_3.jpg]
+
 ## Conclusions
+
+Ce que je peux conclure avec l'oeuvre *Phase Shiftig Index* sa mets en perspective que meme si tout cela se retrouve en 7 epoque differents, tout est relie quand l'humains est dans un niveau d'extase. Ils se retrouve dans un moment de "Transandance".
