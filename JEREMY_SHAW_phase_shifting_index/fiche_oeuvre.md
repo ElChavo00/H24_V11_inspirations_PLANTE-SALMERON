@@ -19,4 +19,7 @@ Jeremy Shaw, nous montre plusieurs epoque avec un style de dance peux communs. M
 ## Appuis visuels
 
 ![exposition_projecteur_sons.jpg]
+![exposition_vue_1.jpg]
+![exposition_vue_2.jpg]
+![exposition_vue_3.jpg]
 ## Conclusions
