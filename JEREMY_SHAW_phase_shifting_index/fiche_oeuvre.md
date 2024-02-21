@@ -1,6 +1,5 @@
 # fiche d'oeuvre : Jeremy Shaw: Phase Shifting Index
-#Lieu: Fonderie Darling | Date: 31/01/2024
--Realisation: The Polygon Gallery | 2020
+## Lieu: Fonderie Darling | Date: 31/01/2024-Realisation: The Polygon Gallery | 2020
 
 *Phase Shifting Index* 
 
