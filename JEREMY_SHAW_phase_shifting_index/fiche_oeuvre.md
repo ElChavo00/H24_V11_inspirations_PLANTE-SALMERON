@@ -1,6 +1,9 @@
 # fiche d'oeuvre : Jeremy Shaw: Phase Shifting Index
+Lieu: Fonderie Darling | Date: 31/01/2024
+realisation: The Polygon Gallery | 2020
 
 *Phase Shifting Index* 
+
 ## Introduction
 
 Jeremy Shaw met en avant une oeuvre immersive avec 7 cannaux different une mini series documentaire a propos une extase collective "transtemporelle" syncronisee.
