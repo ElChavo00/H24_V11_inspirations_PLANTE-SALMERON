@@ -13,4 +13,8 @@
 
 ## Appuis visuels
 
-![photo1].(media/exposition_centrePHI.jpg)
+![photo1].(media/exposition_accesoire.jpg)
+![photo2].(media/exposition_gillet.jpg)
+
+## Conclusion
+
