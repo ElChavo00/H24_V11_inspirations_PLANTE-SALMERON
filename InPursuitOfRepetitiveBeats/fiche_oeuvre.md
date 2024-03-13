@@ -13,4 +13,4 @@
 
 ## Appuis visuels
 
-![photo1].()
+![photo1].(media/exposition_centrePHI.jpg)
