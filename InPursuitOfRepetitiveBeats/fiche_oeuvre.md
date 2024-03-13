@@ -3,4 +3,14 @@
 
 *In pursuits of repetitive beats*
 
-# Introduction
+## Introduction
+
+## Description
+
+## Contexte de creation
+
+## Analyse
+
+## Appuis visuels
+
+![photo1].()
