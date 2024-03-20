@@ -16,7 +16,7 @@ Dans la création de l'oeuvre, on ils ont utiliser toute la technologie possible
 ![gillet](media/exposition_gillet.jpg)
 
 ## Analyse
-
+ 
 
 ## Autres appuis visuels
 ![centre PHI](media/exposition_centrePHI.jpg)
