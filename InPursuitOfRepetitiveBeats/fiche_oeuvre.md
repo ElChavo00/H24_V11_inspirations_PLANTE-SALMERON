@@ -19,6 +19,7 @@ Dans la création de l'oeuvre, on ils ont utiliser toute la technologie possible
 
 
 ## Autres appuis visuels
+![centre PHI](media/exposition_centrePHI.jpg)
 
 ## Conclusion
 Dans cette exposition interactive, j'ai pû découvrir un côté du rave que j'avais jamais connu et le fait de le connaitre d'une autre culture et dans l'apogée rend l'experiance encore plus spécial.
