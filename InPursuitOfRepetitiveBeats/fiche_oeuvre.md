@@ -11,13 +11,14 @@ Dans l'oeuvre de Darren Emerson, on plonge dans l'univers du rêve au royaume-un
 
 
 ## Contexte de creation
+Dans la création de l'oeuvre, on ils ont utiliser toute la technologie possible pour rendre ca le plus immersif possible. L'utilisation du casque VR avec mannetes (Oculus Quest 3), un casque audio, un gillet avec des moteurs pour la vibration et des fans pour rendre immersif la haute vitesse.
+![accesoire](media/exposition_accesoire.jpg)
+![gillet](media/exposition_gillet.jpg)
 
 ## Analyse
 
-## Appuis visuels
 
-![photo1](media/exposition_accesoire.jpg)
-![photo2](media/exposition_gillet.jpg)
+## Autres appuis visuels
 
 ## Conclusion
 Dans cette exposition interactive, j'ai pû découvrir un côté du rave que j'avais jamais connu et le fait de le connaitre d'une autre culture et dans l'apogée rend l'experiance encore plus spécial.
