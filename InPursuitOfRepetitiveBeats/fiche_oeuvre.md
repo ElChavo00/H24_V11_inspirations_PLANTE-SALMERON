@@ -16,10 +16,11 @@ Dans la création de l'oeuvre, on ils ont utiliser toute la technologie possible
 ![gillet](media/exposition_gillet.jpg)
 
 ## Analyse
- 
+ Dans l'immersion en realité virtuel, j'ai pu experimenté l'univers du rave `interdit` des années 90. le fait de pouvoir voir a quoi resemblait d'etre dans un groupe de jeune en recherche de cette rave et de voir l'implication de la police et des organisateurs, rend l'experirience reel. J'ai aimé le fait de pouvoir controler des object dans les salles pour pouvoir avancer l'histoire et sa donne un effet qu'on était bien la. Aussi le fait qu'on devait porter un gillet vibrateur qui donnais la sensation qu'on était a côté d'un gros systeme de son. 
 
 ## Autres appuis visuels
 ![centre PHI](media/exposition_centrePHI.jpg)
 
 ## Conclusion
 Dans cette exposition interactive, j'ai pû découvrir un côté du rave que j'avais jamais connu et le fait de le connaitre d'une autre culture et dans l'apogée rend l'experiance encore plus spécial.
+
